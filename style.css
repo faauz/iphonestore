@@ -1,0 +1,17 @@
+div{
+    text-align: center;
+    margin-top: 200px;
+}
+.era{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: 500px;
+}
+.gle{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    padding: 100px;
+}
